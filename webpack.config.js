@@ -35,7 +35,7 @@ module.exports = {
         //.image {
         //  background-image: url('https://someCDN/test.png');
         //}
-        publicPath: 'http://39.106.68.138:8010/',        /*没有配置这个的话，子路由访问会出错*/
+        publicPath: 'http://39.106.68.138:8020/',        /*没有配置这个的话，子路由访问会出错*/
     },
 
     plugins: [
