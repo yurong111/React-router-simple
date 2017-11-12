@@ -38,7 +38,7 @@ class InitLayout extends React.Component {
     render() {
         return (
             <div>
-                <h1>Welcome React-Router!</h1>
+                <h1>Welcome React-Router123!</h1>
                 <ul>
                     <li>
                         <Link to="/">
